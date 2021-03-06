@@ -1,0 +1,10 @@
+library(karyoploteR)
+library(BiocManager)
+install("BSgenome.Hsapiens.1000genomes.hs37d5")
+
+df = read.csv('/home/mschachter/data/simons/karyotype_data.csv')
+summary(df)
+c = unique(df$chr)
+kp = plotKaryotype(genome='BSgenome.Hsapiens.1000genomes.hs37d5', chromosomes = paste(sort(c)))
+kpAddBaseNumbers(kp)
+kpPlotMarkers(kp, chr=paste(df$chr), x=df$pos, labels=df$gene)
