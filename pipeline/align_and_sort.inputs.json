@@ -1,0 +1,13 @@
+{
+  "bwa_mem.r2fastq": "/home/mschachter/data/1000genomes/SRR1291035_2.fastq.gz",
+  "bwa_mem.ref_fasta": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa",
+  "bwa_mem.ref_fasta_bwt": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa.bwt",
+  "bwa_mem.ref_fasta_amb": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa.amb",
+  "bwa_mem.ref_fasta_sa": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa.sa",
+  "bwa_mem.ref_fasta_ann": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa.ann",
+  "bwa_mem.ref_fasta_pac": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa.pac",
+  "bwa_mem.align.threads": "6",
+  "bwa_mem.r1fastq": "/home/mschachter/data/1000genomes/SRR1291035_1.fastq.gz",
+  "bwa_mem.sample_name": "SRR1291035"
+}
+
