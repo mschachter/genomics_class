@@ -1,0 +1,9 @@
+{
+  "haplotype_caller.bam": "/home/mschachter/data/1000genomes/SRR1291035.bam",
+  "haplotype_caller.ref_fasta": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa",
+  "haplotype_caller.ref_fasta_fai": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.fa.fai",
+  "haplotype_caller.ref_fasta_dict": "/home/mschachter/data/refs/hg38/broad/GRCh38_full_analysis_set_plus_decoy_hla.dict",
+  "haplotype_caller.threads": "6",
+  "haplotype_caller.sample_name": "SRR1291035"
+}
+
